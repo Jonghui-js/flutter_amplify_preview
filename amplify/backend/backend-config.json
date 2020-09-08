@@ -1,0 +1,14 @@
+{
+	"auth": {
+		"cognito243259df": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"analytics": {
+		"amplifyfluttertodo": {
+			"service": "Pinpoint",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
